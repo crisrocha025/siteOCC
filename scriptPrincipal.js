@@ -1,3 +1,5 @@
+// desenvolvido por Cris Rocha -- www.ocodigocris.com
+
 const elementos = document.querySelectorAll('[data-anima]');
 const animacaoClass = 'animacao';
 
