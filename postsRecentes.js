@@ -21,6 +21,6 @@ document.write(html.join(""));
 }
 hoje = new Date()
 numposts = 1;
-var bsrpg_thumbSize = 220;
+var bsrpg_thumbSize = 150;
 var bsrpg_showTitle = true;
 document.write("<script src=\"https://www.ocodigocris.com/feeds/posts/default?start-index="+numposts+"&max-results= 4&orderby=published&alt=json-in-script&callback=bsrpGallery\"><\/script>");
